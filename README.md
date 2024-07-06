@@ -34,8 +34,12 @@ Program ini merupakan sebuah aplikasi CLI (Command-Line Interface) sederhana unt
 - Jika Anda ingin berkontribusi pada pengembangan program ini, silakan lakukan fork dari repository ini, lakukan perubahan, dan ajukan pull request.
 - Masukkan kritik dan saran konstruktif melalui isu (issue) untuk membantu perbaikan program.
 
-## Lisensi
-Program ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](./LICENSE) untuk informasi lebih lanjut.
+## Donate
+- <a href="https://saweria.co/Gundo">visit saweria</a>
+
+- Thank you for your support and donate.🙏🤩
+
+-- Terimakasih atas dukungan dan support kalian semuanya. Nantikan program-program terbaru yang akan saya buat dan saya berusaha semaksimal mungkin untuk membuat program yang sangat bermanfaat bagi anda semua.
 
 ---
 © 2024 Gundo Wijoyo.Sangat Berbahagia🤩 untuk menjaga keamanan web.
