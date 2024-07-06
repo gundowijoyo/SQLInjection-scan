@@ -23,9 +23,13 @@ Program ini merupakan sebuah aplikasi CLI (Command-Line Interface) sederhana unt
    cd SQLInjection-scan
    ```
  - Jalanlan skrip instalasi 
-   ```bash install.sh
    ```
-
+   bash install.sh
+   ```
+- Mulai menjalankan program
+- ```
+  ./sql_injection_scanner
+  ```
 ## Kontribusi
 - Jika Anda ingin berkontribusi pada pengembangan program ini, silakan lakukan fork dari repository ini, lakukan perubahan, dan ajukan pull request.
 - Masukkan kritik dan saran konstruktif melalui isu (issue) untuk membantu perbaikan program.
