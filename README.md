@@ -19,8 +19,8 @@ Program ini merupakan sebuah aplikasi CLI (Command-Line Interface) sederhana unt
 ## Instalasi dengan Skrip Bash
 1. Clone repository ini:
    ```bash
-   git clone <link-repository>
-   cd sql_injection_scanner_cpp
+   git clone https://github.com/gundowijoyo/SQLInjection-scan.git
+   cd SQLInjection-scan
    ```
  - Jalanlan skrip instalasi 
    ```bash install.sh
@@ -34,5 +34,5 @@ Program ini merupakan sebuah aplikasi CLI (Command-Line Interface) sederhana unt
 Program ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](./LICENSE) untuk informasi lebih lanjut.
 
 ---
-© 2024 Gundo Wijoyo. Dibuat dengan ❤️ untuk menjaga keamanan web.
+© 2024 Gundo Wijoyo.Sangat Berbahagia🤩 untuk menjaga keamanan web.
 
