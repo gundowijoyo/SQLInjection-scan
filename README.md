@@ -1,4 +1,4 @@
-# SQL Injection Scanner CLI
+## Tools SQL Injection Scanner CLI
 ## Deskripsi
 Program ini merupakan sebuah aplikasi CLI (Command-Line Interface) sederhana untuk mendeteksi kerentanan SQL Injection pada sebuah URL target. Program menggunakan libcurl untuk mengambil respons dari server, kemudian menganalisis respons tersebut menggunakan regular expression (regex) untuk mencari pola-pola yang mencurigakan terkait SQL Injection.
 
@@ -39,7 +39,7 @@ Program ini merupakan sebuah aplikasi CLI (Command-Line Interface) sederhana unt
 
 - Thank you for your support and donate.🙏🤩
 
--- Terimakasih atas dukungan dan support kalian semuanya. Nantikan program-program terbaru yang akan saya buat dan saya berusaha semaksimal mungkin untuk membuat program yang sangat bermanfaat bagi anda semua.
+- Terimakasih atas dukungan dan support kalian semuanya. Nantikan program-program terbaru yang akan saya buat dan saya berusaha semaksimal mungkin untuk membuat program yang sangat bermanfaat bagi anda semua.
 
 ---
 © 2024 Gundo Wijoyo.Sangat Berbahagia🤩 untuk menjaga keamanan web.
