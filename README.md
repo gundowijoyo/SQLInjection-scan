@@ -35,7 +35,7 @@ Program ini merupakan sebuah aplikasi CLI (Command-Line Interface) sederhana unt
 - Masukkan kritik dan saran konstruktif melalui isu (issue) untuk membantu perbaikan program.
 
 ## Donate
-- <a href="https://saweria.co/Gundo">visit saweria</a>
+- <a href="https://saweria.co/Gundo">visit saweria me</a>
 
 - Thank you for your support and donate.🙏🤩
 
