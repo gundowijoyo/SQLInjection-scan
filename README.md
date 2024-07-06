@@ -1,4 +1,4 @@
-## Tools SQL Injection Scanner CLI
+## Tools SQL Injection Scanner CLI 'OPEN SOURCE'
 ## Deskripsi
 Program ini merupakan sebuah aplikasi CLI (Command-Line Interface) sederhana untuk mendeteksi kerentanan SQL Injection pada sebuah URL target. Program menggunakan libcurl untuk mengambil respons dari server, kemudian menganalisis respons tersebut menggunakan regular expression (regex) untuk mencari pola-pola yang mencurigakan terkait SQL Injection.
 
